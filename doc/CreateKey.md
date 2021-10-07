@@ -4,7 +4,7 @@ First, we will create a PEM file that contiaing just the private-key.
 
 ## 1. Generating a PEM file...
 
-There are different ways to creating the PEM file. Here we will us the __imgtool__.
+There are different ways to creating the PEM file. Here we will use the __imgtool__.
 
 The imgtool can be used to generate rsa-2048, rsa-3072, ecdsa-p256, ed25519, and x25519 keys. Here is the instruction:
 
