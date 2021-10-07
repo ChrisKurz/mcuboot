@@ -70,5 +70,5 @@ The following C code is generated:
     
 ![](images/imgtool_PrivateKey.jpg)
     
-This private key is used by MCUboot When you want to encrypt the application image. Copy the generated code and replace the appropriate key in the keys.c file. 
+This private key is used by MCUboot project. Copy the generated code and replace the appropriate key in the keys.c file (mcuboot project). 
     
