@@ -57,7 +57,7 @@ The following example does not specify the "-l" parameter. So the default langua
 
 Then you get the following output in the command prompt:
 
-![](images/imgtool_PublicKey.JPG)
+![](images/imgtool_PublicKey.jpg)
 
     
 ## 3. Generating the private key
