@@ -98,3 +98,5 @@ Note:  signing key and encryption key must use the same type of key!
 Finding the right address for the -x parameter my be tricky. A simple way to find the right address is to use the __Programmer__ tool (nRF Connect for Desktop) and add the __app_moved_test_update.hex__ file. This file is located in the build/zephyr folder after you have done a successfull build of your project. 
 
 ![](images/programmer.jpg)
+
+Note: this programmer window shows a different memory partition than the first picute on this page. The first picture was assuming a mcuboot configuration that uses a scratch partition for the swap. The mcuboot configuration for the other screen shot is using "Swap mode that can run without a scratch partition". 
