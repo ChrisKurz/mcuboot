@@ -4,7 +4,7 @@ This repository is a collection of projects and explanations that show how mcubo
 
 ## mcuboot basics
 
-[How to copy MCUboot project into your own workspace folder](doc/01_CopyMcubootProject.md)
+[How to copy MCUboot project into your own workspace folder](doc/CopyMcubootProject.md)
 
 ## Signing and Encrypting an Application Image
 
