@@ -5,7 +5,7 @@ Video:
 - Deutsch =>  ---
 
 
-**Note:** There is the possibility to do a Multi-Image build, which allows to build a project that includes MCUboot beside the application. In this chapter I talk about how to create a MCUboot project copy, that only includes the MCUboot software. For completness, I will also point to an example that takes care about downloading the firmware image, which is done in the application software.
+**Note:** There is the possibility to do a Multi-Image build, which allows to build a project that includes MCUboot beside the application. Using Multi-Image build is the standard way to include MCUboot into an application project. In this chapter I talk about how to create a MCUboot project copy, that only includes the MCUboot software. For completness, I will also point to an example that takes care about downloading the firmware image, which is done in the application software.
 
 ## How to copy the MCUboot project
 
