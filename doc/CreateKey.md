@@ -4,7 +4,7 @@ First, we will create a PEM file that contiaing just the private-key.
 
 ## 1. Generating a PEM file...
 
-There are different ways to creating the PEM file. Here we will us the __imgtool__.
+There are different ways to creating the PEM file. Here we will use the __imgtool__.
 
 The imgtool can be used to generate rsa-2048, rsa-3072, ecdsa-p256, ed25519, and x25519 keys. Here is the instruction:
 
@@ -57,7 +57,7 @@ The following example does not specify the "-l" parameter. So the default langua
 
 Then you get the following output in the command prompt:
 
-![](images/imgtool_PublicKey.JPG)
+![](images/imgtool_PublicKey.jpg)
 
     
 ## 3. Generating the private key
@@ -70,5 +70,5 @@ The following C code is generated:
     
 ![](images/imgtool_PrivateKey.jpg)
     
-This private key is used by MCUboot When you want to encrypt the application image. Copy the generated code and replace the appropriate key in the keys.c file. 
+This private key is used by MCUboot project. Copy the generated code and replace the appropriate key in the keys.c file (mcuboot project). 
     
